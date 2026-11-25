@@ -1,0 +1,28 @@
+{
+  "modelo": "maison",
+  "nome": "Barbearia Exemplo",
+  "slogan": "Barbearia premium",
+  "iniciais": "BE",
+  "bairro": "Centro",
+  "fundacao": "2018",
+  "endereco": "Rua das Flores, 123 — Centro",
+  "mapa": "https://maps.google.com/?q=Rua+das+Flores+123",
+  "instagram": "barbeariaexemplo",
+  "whatsapp": "5511999999999",
+  "whatsapp_exibicao": "(11) 99999-9999",
+  "dias_fechados": [0],
+  "horarios": ["09:00", "10:00", "11:00", "13:30", "14:30", "15:30", "16:30", "18:00"],
+  "textos": {},
+  "servicos": [
+    { "nome": "Corte", "duracao": "40 min", "preco": "R$ 50" },
+    { "nome": "Barba", "duracao": "30 min", "preco": "R$ 40" },
+    { "nome": "Corte + barba", "duracao": "1 h 10", "preco": "R$ 80" },
+    { "nome": "Pigmentação", "duracao": "50 min", "preco": "R$ 60" }
+  ],
+  "equipe": [
+    { "nome": "Carlos", "funcao": "Barbeiro master" },
+    { "nome": "Rafael", "funcao": "Degradê e navalha" },
+    { "nome": "André", "funcao": "Barba" }
+  ],
+  "fotos": []
+}
